@@ -1,0 +1,60 @@
+﻿@model Bookstore.Models.Book
+@{
+    ViewData["Title"] = "Details";
+}
+<h3 style="color:limegreen; font-style:italic">Details</h3>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LongDescription)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LongDescription)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortDescription)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ShortDescription)
+        </dd>
+        @* <dt>
+            @Html.DisplayNameFor(model => model.Author.FullName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Author.FullName)
+        </dd> *@
+        @if (Model.ImageUrl != null)
+        {
+            <dt>
+                Image:
+            </dt>
+            <dd>
+                <img src="~/uploads/@Model.ImageUrl" width="120" height="130" />
+            </dd>
+        }
+    </dl>
+</div>
+<div>
+    <a asp-action="Index_layout" class="btn btn-outline-info">Back to List</a>|
+    <a asp-action="HomePage" class="btn btn-outline-info">Home</a>
+    @*    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-outline-info">Edit</a>
+    *@@*    @Html.ActionLink("Edit", "Edit", new { Id=Model.Id }, new{@class="btn btn-info"})*@
+</div>
+@section Scripts{
+    <partial name="_Validation" />
+}

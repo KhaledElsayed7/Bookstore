@@ -1,0 +1,12 @@
+﻿@model IList<string>
+
+    <h3>Authors Names</h3>
+
+    <ul class="list-group">
+        @foreach(var name in Model)
+        {
+        <li class="list-group-item">@name</li>
+        }
+    </ul>
+
+   @* this page is viewed in => Views/Book/index*@

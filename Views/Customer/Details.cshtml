@@ -1,0 +1,56 @@
+﻿@model Bookstore.Models.Customer
+@{
+    ViewData["Title"] = "Details";
+}
+<h3 style="color:limegreen; font-style:italic">Details</h3>
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Country)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Country)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+    </dl>  
+        <a asp-action="Index">Back to List</a>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-outline-info">Back to List</a>|
+    @*<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-outline-info">Edit</a>*@
+        @Html.ActionLink("Edit", "Edit", new { Id=Model.Id }, new{@class="btn btn-info"})
+</div>
+@section Scripts{
+    <partial name="_Validation" />
+}

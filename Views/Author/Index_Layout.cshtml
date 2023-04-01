@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Bookstore.Models.Author>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h3 style="padding-left:20px; text-decoration:none">Authors</h3>
+
+<table class="table">
+    <thead>
+        <tr style="
+        background-color: lightgreen;
+        font-size: 16px;
+        font-weight: 300;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                 <td>
+                    @Html.ActionLink("Details", "Details_Layout", new { id=item.Id }, new{@class="btn btn-info"}) 
+                  </td> 
+            </tr>
+        }
+    </tbody>
+</table>
+@*@Html.Partial("Notification")*@

@@ -1,0 +1,577 @@
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.AssemblyReference.cache
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.SuggestedBindingRedirects.cache
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe.config
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfoInputs.cache
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfo.cs
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CoreCompileInputs.cache
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cache
+E:\New\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cs
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\app.config
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\appsettings.Development.json
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\appsettings.json
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe.config
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.deps.json
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.pdb
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.pdb
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.CookiePolicy.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\dotnet-aspnet-codegenerator-design.exe
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.Bson.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\NuGet.Frameworks.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Remotion.Linq.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Buffers.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Collections.Immutable.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Composition.AttributedModel.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Convention.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Hosting.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Runtime.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Composition.TypedParts.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Interactive.Async.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.IO.Pipelines.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Memory.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Security.AccessControl.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Security.Permissions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.AssemblyReference.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.SuggestedBindingRedirects.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe.config
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfoInputs.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfo.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CoreCompileInputs.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.input.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.output.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorCoreGenerate.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\About.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Contact.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Error.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewImports.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cache
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.Views.pdb
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CopyComplete
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Bookstore.pdb
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Index.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Details.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Create.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Delete.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Edit.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Index.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Details.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Delete.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Edit.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Create.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\bin\Debug\net472\libman.json
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Notification.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Components\AuthorNames\Default.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Validation.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Index.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Create.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Delete.cshtml.g.cs
+E:\New pro\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Details.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.AssemblyReference.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.SuggestedBindingRedirects.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe.config
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfoInputs.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfo.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CoreCompileInputs.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.pdb
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\app.config
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\appsettings.Development.json
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\appsettings.json
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\libman.json
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe.config
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.deps.json
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.pdb
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.pdb
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\dotnet-aspnet-codegenerator-design.exe
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.Bson.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\NuGet.Frameworks.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Remotion.Linq.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Buffers.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Composition.AttributedModel.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Convention.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Hosting.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Runtime.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Composition.TypedParts.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Interactive.Async.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Memory.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Security.Permissions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Copy BookStore\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.input.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.output.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorCoreGenerate.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Create.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Delete.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Details.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Edit.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Index.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Create.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Delete.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Details.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Edit.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Index.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Create.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Delete.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Details.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Index.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\About.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Components\AuthorNames\Default.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Notification.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Validation.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cache
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cs
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.Views.pdb
+E:\Copy BookStore\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CopyComplete
+E:\Bookstore\Bookstore\bin\Debug\net472\app.config
+E:\Bookstore\Bookstore\bin\Debug\net472\libman.json
+E:\Bookstore\Bookstore\bin\Debug\net472\appsettings.json
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe.config
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.deps.json
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.exe
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.pdb
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Bookstore.Views.pdb
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Antiforgery.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cors.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HostFiltering.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.JsonPatch.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Localization.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Language.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.StaticFiles.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.AspNetCore.WebUtilities.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Razor.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.Design.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Identity.Core.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Extensions.WebEncoders.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Net.Http.Headers.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\dotnet-aspnet-codegenerator-design.exe
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Newtonsoft.Json.Bson.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\NuGet.Frameworks.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Remotion.Linq.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Buffers.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Collections.Immutable.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Composition.AttributedModel.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Convention.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Hosting.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Composition.Runtime.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Composition.TypedParts.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Data.SqlClient.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Interactive.Async.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.IO.Pipelines.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Memory.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Security.AccessControl.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Security.Permissions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\Bookstore\Bookstore\bin\Debug\net472\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.AssemblyReference.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.SuggestedBindingRedirects.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe.config
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfoInputs.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.AssemblyInfo.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CoreCompileInputs.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorAssemblyInfo.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.input.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.TagHelpers.output.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorCoreGenerate.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Create.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Delete.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Details.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Edit.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Index.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Create.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Delete.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Details.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Edit.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Index.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Create.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Delete.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Details.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Customer\Index.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\About.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Index.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Components\AuthorNames\Default.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\Notification.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Shared\_Validation.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cache
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.RazorTargetAssemblyInfo.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.Views.pdb
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.csproj.CopyComplete
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.exe
+E:\Bookstore\Bookstore\obj\Debug\net472\Bookstore.pdb
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\HomePage.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Index_Layout.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Author\Details_Layout.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Index_Layout.cshtml.g.cs
+E:\Bookstore\Bookstore\obj\Debug\net472\Razor\Views\Book\Details_Layout.cshtml.g.cs

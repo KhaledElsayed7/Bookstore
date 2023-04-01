@@ -1,0 +1,27 @@
+﻿@model Bookstore.Models.Author
+@{
+    ViewData["Title"] = "Details";
+}
+<h3 style="color:limegreen; font-style:italic">Details</h3>
+
+<div>
+    <h4>Author</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+    </dl>
+</div>
+ @* @Html.ActionLink("Back to List", "Index_Layout", new { id = Model.Id }, new{ @class="btn btn-info"})| *@
+<a asp-action="Index_Layout">Back to List</a> |
+<a asp-action="HomePage">Home</a>
