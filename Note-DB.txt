@@ -1,0 +1,2 @@
+Database of this project:
+                          External Database called "BookstoreDB" on Sql Server
